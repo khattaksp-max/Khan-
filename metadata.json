@@ -1,0 +1,6 @@
+{
+  "name": "SANA AI",
+  "description": "SANA AI assistant featuring an advanced multi-voice system, real-time voice switching, and a playful jealousy personality mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
